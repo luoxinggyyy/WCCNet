@@ -7,7 +7,7 @@ python+pytorch
 GPU: RTX 3060 or 3060+
 ---
 ## Installation
-   pip install -r `requirement.txt`
+      pip install -r `requirement.txt`
  ---  
 
  ## Quick Start
